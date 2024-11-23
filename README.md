@@ -18,4 +18,6 @@ aws ssm get-parameter --name /cdk-bootstrap/hnb659fds/version --query Parameter.
 npm install -g aws-cdk
 
 **Bootstrap command**
-cdk bootstrap 'aws://<account number>/<region>' --profile <profilename>
+cdk bootstrap 'aws://account-number/region' --profile profile-name
+
+Example: cdk bootstrap 'aws://123456789012/eu-central-1' --profile profile-balasiksha
