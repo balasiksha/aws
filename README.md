@@ -1,5 +1,5 @@
-# aws
-documentation
+# AWS
+Slow start of organizing AWS documentation
 
 # cdk
 **References**
@@ -28,3 +28,9 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-reso
 **CDK:** [https://docs.aws.amazon.com/cdk/api/v2/](url)
 
 **Constructs:** [https://constructs.dev/](url)
+
+**AWS Samples in Github:**
+[https://github.com/aws-samples/](url)
+**CDK Samples:** [https://github.com/aws-samples/aws-cdk-examples](url)
+
+
