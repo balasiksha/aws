@@ -3,12 +3,12 @@ documentation
 
 # cdk
 **References**
-**versions**: https://docs.aws.amazon.com/cdk/api/versions.html
+**versions**: [https://docs.aws.amazon.com/cdk/api/versions.html](url)
  
-**releases**: https://github.com/aws/aws-cdk/releases
+**releases**: [https://github.com/aws/aws-cdk/releases](url)
  
 **template, cdk version:**
-https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping-env.html
+[https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping-env.html](url)
 
 **Commands**
 **Get bootstrap version**
@@ -27,4 +27,4 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-reso
 
 **CDK:** [https://docs.aws.amazon.com/cdk/api/v2/](url)
 
-**Constructs:** https://constructs.dev/
+**Constructs:** [https://constructs.dev/](url)
