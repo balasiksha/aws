@@ -21,3 +21,9 @@ npm install -g aws-cdk
 cdk bootstrap 'aws://account-number/region' --profile profile-name
 
 Example: cdk bootstrap 'aws://123456789012/eu-central-1' --profile profile-balasiksha
+
+
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
+
+**CDK:** https://docs.aws.amazon.com/cdk/api/v2/
+**Constructs:** https://constructs.dev/
